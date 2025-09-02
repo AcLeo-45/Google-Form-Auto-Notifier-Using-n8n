@@ -39,7 +39,7 @@ Email/Message Node
 
 🛠️ Setup Instructions
 1. Import Workflow
-1.	Download the “GoogleForm-AutoNotifier.json.json” file from the /workflow directory
+1.	Download the “GoogleForm-AutoNotifier.json” file from the /workflow directory
 2.	In your n8n Cloud dashboard, click "Import from File"
 3.	Select the downloaded JSON file
 4.	The workflow will be imported with all node configurations
