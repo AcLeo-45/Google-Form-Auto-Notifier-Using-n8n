@@ -10,7 +10,7 @@ An automated email notification system built with n8n that instantly sends alert
 •	Customizable Messages: Personalized email content for each notification
 
 🏗️ Workflow Architecture
-Google Sheets Trigger         →          Email Notification Node
+Google Sheets Trigger         →         Email Notification Node
            ↓                                     ↓
 - Monitors sheet every min              - Sends custom email
 - Detects new rows                      - Uses JSON property for recipient
